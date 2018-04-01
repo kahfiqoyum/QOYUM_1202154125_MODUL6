@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582232820665",
+    "firebase_url": "https://qoyum1202154125modul6.firebaseio.com",
+    "project_id": "qoyum1202154125modul6",
+    "storage_bucket": "qoyum1202154125modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582232820665:android:05185a750ee8fb40",
+        "android_client_info": {
+          "package_name": "com.example.qoyumalkahfi.qoyum_1202154125_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582232820665-9kl59u4dilnocn9kjdldkekq4tvj6an7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qoyumalkahfi.qoyum_1202154125_modul6",
+            "certificate_hash": "cb69dc975d13f86ee1028dfe9823ffe4ffe03a25"
+          }
+        },
+        {
+          "client_id": "582232820665-cu3p157puj5528vp5qd6rmg3k9t4jumj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ25Wjo8A6vzyeRwfCmjUvC2YBojh-I2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582232820665-cu3p157puj5528vp5qd6rmg3k9t4jumj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
